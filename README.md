@@ -6,6 +6,7 @@ but like every other thing, with some positives there are negatives too. Road
 accidents are the major threat to human lives. Speed is the key factor 
 responsible for many of the accidents. Therefore, there is a need to control all 
 the accidents. 
+
 One of the methods for accident detection was, manual accident 
 detection, which relied on the passengers passing by the accident spot who 
 notify the concerned emergency authorities for any safety measures to be 
